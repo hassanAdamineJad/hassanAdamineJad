@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ascii-profile.svg" alt="Hassan Adaminejad — Senior Full-Stack Developer" width="100%" />
+  <img src="./ascii-profile (2).svg" alt="Hassan Adaminejad — Senior Full-Stack Developer" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Hassan 👋</h1>
