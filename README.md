@@ -171,28 +171,6 @@ const hassan = {
 };
 ```
 
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=hassanAdamineJad&show_icons=true&hide_border=true&rank_icon=github"
-    alt="Hassan's GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanAdamineJad&layout=compact&hide_border=true"
-    alt="Hassan's most used languages"
-  />
-</p>
-
----
-
 ## 🌍 Let's Connect
 
 I'm interested in **challenging web products, frontend architecture, full-stack systems, and AI-powered applications**.
